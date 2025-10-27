@@ -1,0 +1,20 @@
+/* This file contains common styles for all page components */
+
+.page-header {
+  background: linear-gradient(135deg, #0d47a1 0%, #1565c0 100%);
+  color: white;
+  padding: 100px 0 60px;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-size: 48px;
+  margin-bottom: 16px;
+}
+
+.page-header p {
+  font-size: 20px;
+  opacity: 0.9;
+}
+
+
